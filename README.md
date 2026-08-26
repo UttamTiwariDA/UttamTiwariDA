@@ -21,8 +21,8 @@
   <tr>
     <td align="center" width="33%">
       🐍 <b>Languages & Libraries</b>
-      <br/><br/>
-      <img src="https://skillicons.dev" alt="Languages" />
+      <br/>
+      <img src="https://skillicons.dev" alt="Languages"/>
     </td>
     <td align="center" width="33%">
       📈 <b>BI & Databases</b>
