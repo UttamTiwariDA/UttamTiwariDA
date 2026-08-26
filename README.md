@@ -10,7 +10,7 @@
 - 🎓 **Education:** Pursuing BCA (Semester 5) from **Online Manipal University, Jaipur**.
 - 🎯 **Core Focus:** Specialized in Data Cleaning, Exploratory Data Analysis (EDA), SQL Query Optimization, and Business Intelligence (BI) Dashboarding.
 - ⚙️ **Goal:** Transforming complex data structures into strategic dashboards that drive business growth.
-- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://linkedin.com[YOUR_LINKEDIN_USERNAME])
+- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://linkedin.comUttamTiwariDA)
 - ✉️ **Contact:** `your-email@example.com`
 
 ---
