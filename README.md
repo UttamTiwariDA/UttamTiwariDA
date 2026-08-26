@@ -48,17 +48,17 @@
 ### 1. 📉 Sales & Revenue Performance Dashboard
 * **Tech Stack:** `Power BI` | `Advanced Excel` | `Power Query`
 * **Core Analytics:** Cleaned over 50,000+ raw transactional rows, handled structural anomalies, and built customized DAX parameters to track Year-over-Year (YoY) revenue velocity and regional market penetration.
-* 🔗 **[Explore Repository & Live Dashboard](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)**
+* 🔗 **[Explore Repository & Live Dashboard](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
 
 ### 2. 🐍 Automated Data Preprocessing Pipeline
 * **Tech Stack:** `Python` | `Pandas` | `NumPy`
 * **Core Analytics:** Developed an enterprise-ready automation script that scans incoming CSV/Excel matrices, instantly standardizes datetime anomalies, resolves schema mismatches, and generates a visual profiling report.
-* 🔗 **[Explore Source Code & Notebooks](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)**
+* 🔗 **[Explore Source Code & Notebooks](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
 
 ### 3. 🛢️ Relational E-Commerce Database Architecture
 * **Tech Stack:** `MySQL` | `Relational Database Management (RDBMS)`
 * **Core Analytics:** Engineered third-normal-form (3NF) relational tables tracking customer lifetime journeys. Crafted complex multi-table JOINs and stored procedures to calculate cart abandonment benchmarks.
-* 🔗 **[Explore Database Schema & Queries](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)**
+* 🔗 **[Explore Database Schema & Queries](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
 
 ---
 
@@ -69,5 +69,7 @@
 ---
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamTiwariDA&show_icons=true&theme=radical)](https://github.com/UttamTiwariDA)
+  <a href="https://github.com/UttamTiwariDA">
+    <img src="https://github-readme-stats.vercel.app/api?username=UttamTiwariDA&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
+  </a>
 </p>
