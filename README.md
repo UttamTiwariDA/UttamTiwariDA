@@ -1,37 +1,57 @@
-# 📊 Hello World! I'm Uttam Tiwari 
+# 👋 Hi, I'm Uttam Tiwari
+### 📈 Data Analyst & BI Developer | BCA Student @ Manipal University
 
-Data Analyst In The Making | BCA Semester 5 @ Online Manipal University, Jaipur | Turning Raw Data into Actionable Insights
-
----
-
-### 👨‍💻 About Me
-* 🎓 **Education:** Pursuing BCA (Semester 5) from **Online Manipal University, Jaipur**.
-* 🎯 **Core Focus:** Specialized in Data Cleaning, Exploratory Data Analysis (EDA), SQL Query Optimization, and Business Intelligence (BI) Dashboarding.
-* ⚙️ **Goal:** Transforming complex data structures into strategic dashboards that drive business growth.
-* ✉️ **Contact:** `your-email@example.com`
-
----
-
-### 🛠️ Data Analytics Toolkit
-
-| 🐍 Programming & Data Science | 📈 BI & Databases | 📑 Spreadsheets & Docs |
-| :--- | :--- | :--- |
-| • **Python** (Core Language) <br> • **NumPy** (Numerical Arrays) <br> • **Pandas** (Data Manipulation) | • **Power BI** (Interactive BI) <br> • **MySQL / SQL** (Queries) <br> • **PostgreSQL** (Advanced SQL) | • **Microsoft Excel** (Advanced) <br> • **Google Sheets** (Cloud) <br> • **Google Docs** (Documentation) |
+<p align="left">
+  <a href="https://linkedin.com[YOUR_LINKEDIN_USERNAME]" target="blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 📂 Featured Data Analytics Projects
-
-| Project Name | Tech Stack Used | Project Description & Analytics Deliverables | Source Code |
-| :--- | :--- | :--- | :--- |
-| **📉 Sales & Revenue Dashboard** | Power BI, Excel | Cleaned raw company sales records, handled missing values, and engineered data models to build interactive KPIs tracking YoY growth, regional distribution, and top-selling product pipelines. | [View Project](#) |
-| **🐍 Advanced Data Cleaner** | Python, Pandas | Programmed a robust utility script that automates basic data preprocessing—identifying data type mismatches, dropping/imputing null matrices, and parsing standard dates. | [View Project](#) |
-| **🛢️ E-Commerce Database** | MySQL, SQL | Architected custom relational schemas, normalization constraints, and optimized heavy JOIN statements to query retention analysis and transaction flows. | [View Project](#) |
-
-*💡 Tip: Click on "View Project" link inside the table to browse specific data notebooks and SQL queries.*
+## 💻 Professional Profile
+* 🎓 **Current Education:** Pursuing **BCA (Semester 5)** from **Online Manipal University, Jaipur**.
+* 🎯 **Core Specialization:** Exploratory Data Analysis (EDA), Data Wrangling, Relational Database Design, and Interactive Corporate Dashboarding.
+* 🚀 **Objective:** Transforming chaotic business data into structured, automated, and actionable visual stories.
 
 ---
 
-### 🌐 Let's Connect!
-* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com[YOUR_LINKEDIN_USERNAME])
+## 🛠️ Data Analytics Toolkit
+
+### 🧠 Programming & Core Libraries
+`Python` `Pandas` `NumPy` `Data Cleaning` `Statistical Analysis`
+
+### 🛢️ Databases & Structured Query
+`SQL` `MySQL` `PostgreSQL` `Query Optimization` `Database Schema Design`
+
+### 📊 Business Intelligence & Spreadsheets
+`Power BI` `DAX Queries` `Microsoft Excel` `Advanced Pivot Tables` `Google Sheets`
+
+---
+
+## 📂 Featured Analytics Portfolio
+
+### 1. 📉 Sales & Revenue Performance Dashboard
+* **Tech Stack:** `Power BI` | `Advanced Excel` | `Power Query`
+* **Core Analytics:** Cleaned over 50,000+ raw transactional rows, handled structural anomalies, and built customized DAX parameters to track Year-over-Year (YoY) revenue velocity, rolling retention, and regional market penetration.
+* 🔗 **[Explore Repository & Live Dashboard](#)**
+
+### 2. 🐍 Automated Data Preprocessing Pipeline
+* **Tech Stack:** `Python` | `Pandas` | `NumPy`
+* **Core Analytics:** Developed an enterprise-ready automation script that scans incoming CSV/Excel matrices, instantly standardizes datetime anomalies, resolves schema mismatches, and generates a visual profiling report.
+* 🔗 **[Explore Source Code & Notebooks](#)**
+
+### 3. 🛢️ Relational E-Commerce Database Architecture
+* **Tech Stack:** `MySQL` | `Relational Database Management (RDBMS)`
+* **Core Analytics:** Engineered third-normal-form (3NF) relational tables tracking customer lifetime journeys. Crafted complex multi-table JOINs and stored procedures to calculate cart abandonment benchmarks.
+* 🔗 **[Explore Database Schema & Queries](#)**
+
+---
+
+## 📈 GitHub Metrics & Analytics
+* ⚡ **Preferred Environments:** VS Code, Jupyter Notebooks, Power BI Desktop.
+* 🎯 **Current Focus:** Sharpening Advanced SQL window functions & Predictive Modeling with Python.
 *
