@@ -53,7 +53,7 @@
 ### 2. 🛡️ E-Commerce RTO Fraud Prediction ML Pipeline
 * **Tech Stack:** `Machine Learning` | `Python (Flask)` | `Scikit-Learn` | `Aiven MySQL Cloud`
 * **Impact:** Engineered a Random Forest classification model (balanced via SMOTE) to predict high-risk Return-to-Origin (RTO) orders. Deployed as a full-stack Flask web app with real-time prediction logging to a cloud database. *(Built leveraging a transparent Human + AI pair programming approach).*
-* 🔗 **[Explore Live Web App & Code](YOUR_LINK_HERE)**
+* 🔗 **[Explore Live Web App & Code](https://github.com/UttamTiwariDA/E-Commerce-rto-fraud-predictor)**
 
 ### 3. 🛒 Olist E-Commerce Business Intelligence
 * **Tech Stack:** `Python` | `Advanced SQL` | `Power BI` | `DAX`
