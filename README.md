@@ -59,7 +59,7 @@
 ### 3. 🛒 Olist E-Commerce Business Intelligence
 * **Tech Stack:** `Python` | `Advanced SQL` | `Power BI` | `DAX`
 * **Impact:** Conducted full-cycle analysis on 100k+ real e-commerce orders to solve customer churn and delivery bottlenecks. Used Python for missing data handling, wrote complex SQL queries for retention logic, and optimized a 3-page Power BI dashboard by reducing file bloat by 60%.
-* 🔗 **[Explore SQL Scripts & Dashboard](YOUR_LINK_HERE)**
+* 🔗 **[Explore SQL Scripts & Dashboard](https://github.com/UttamTiwariDA/Power-BI-Portfolio/tree/main/End_to_End_Ecommerce_SQL_Python_Power-BI)**
 
 ### 4. 🚕 OLA Ride Data & Operations Dashboard
 * **Tech Stack:** `SQL` | `Power BI` | `DAX` | `Data Modeling`
