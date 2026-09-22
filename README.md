@@ -48,7 +48,7 @@
 ### 1. 📈 Financial Portfolio Risk & ETL Dashboard
 * **Tech Stack:** `Python` | `yfinance API` | `MySQL` | `Power BI` | `SQLAlchemy`
 * **Impact:** Built an automated ETL data pipeline to track custom stock portfolios. Extracted live market data, performed in-memory cleaning, and securely loaded it into a MySQL database. Designed an interactive Power BI dashboard to track real-time ROI and market volatility.
-* 🔗 **[Explore Source Code & Dashboard](YOUR_LINK_HERE)**
+* 🔗 **[Explore Source Code & Dashboard](https://github.com/UttamTiwariDA/Live-Stock-Analytics-Pipeline)**
 
 ### 2. 🛡️ E-Commerce RTO Fraud Prediction ML Pipeline
 * **Tech Stack:** `Machine Learning` | `Python (Flask)` | `Scikit-Learn` | `Aiven MySQL Cloud`
