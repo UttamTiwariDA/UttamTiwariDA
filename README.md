@@ -14,57 +14,62 @@
 
 ## 💻 Professional Profile
 * 🎓 **Current Education:** Pursuing **BCA (Semester 5)** from **Online Manipal University, Jaipur**.
-* 🎯 **Core Specialization:** Exploratory Data Analysis (EDA), Data Wrangling, Relational Database Design, and Interactive Corporate Dashboarding.
-* 🚀 **Objective:** Transforming chaotic business data into structured, automated, and actionable visual stories.
+* 🎯 **Core Specialization:** Exploratory Data Analysis (EDA), ETL Pipelines, Relational Database Modeling, and Interactive Corporate Dashboarding.
+* 🚀 **Objective:** Solving real-world business problems by translating messy data into clean databases, predictive models, and actionable visual stories.
 
 ---
 
 ## 🛠️ Data Analytics Toolkit
 
-### 🧠 Programming & Core Libraries
+### 🧠 Programming, ML & Core Libraries
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
 ### 🛢️ Databases & Structured Query
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### 📊 Business Intelligence & Spreadsheets
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Featured Analytics Portfolio
 
-### 1. 📉 Sales & Revenue Performance Dashboard
-* **Tech Stack:** `Power BI` | `Advanced Excel` | `Power Query`
-* **Core Analytics:** Cleaned over 50,000+ raw transactional rows, handled structural anomalies, and built customized DAX parameters to track Year-over-Year (YoY) revenue velocity and regional market penetration.
-* 🔗 **[Explore Repository & Live Dashboard](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
+### 1. 📈 Financial Portfolio Risk & ETL Dashboard
+* **Tech Stack:** `Python` | `yfinance API` | `MySQL` | `Power BI` | `SQLAlchemy`
+* **Impact:** Built an automated ETL data pipeline to track custom stock portfolios. Extracted live market data, performed in-memory cleaning, and securely loaded it into a MySQL database. Designed an interactive Power BI dashboard to track real-time ROI and market volatility.
+* 🔗 **[Explore Source Code & Dashboard](YOUR_LINK_HERE)**
 
-### 2. 🐍 Automated Data Preprocessing Pipeline
-* **Tech Stack:** `Python` | `Pandas` | `NumPy`
-* **Core Analytics:** Developed an enterprise-ready automation script that scans incoming CSV/Excel matrices, instantly standardizes datetime anomalies, resolves schema mismatches, and generates a visual profiling report.
-* 🔗 **[Explore Source Code & Notebooks](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
+### 2. 🛡️ E-Commerce RTO Fraud Prediction ML Pipeline
+* **Tech Stack:** `Machine Learning` | `Python (Flask)` | `Scikit-Learn` | `Aiven MySQL Cloud`
+* **Impact:** Engineered a Random Forest classification model (balanced via SMOTE) to predict high-risk Return-to-Origin (RTO) orders. Deployed as a full-stack Flask web app with real-time prediction logging to a cloud database. *(Built leveraging a transparent Human + AI pair programming approach).*
+* 🔗 **[Explore Live Web App & Code](YOUR_LINK_HERE)**
 
-### 3. 🛢️ Relational E-Commerce Database Architecture
-* **Tech Stack:** `MySQL` | `Relational Database Management (RDBMS)`
-* **Core Analytics:** Engineered third-normal-form (3NF) relational tables tracking customer lifetime journeys. Crafted complex multi-table JOINs and stored procedures to calculate cart abandonment benchmarks.
-* 🔗 **[Explore Database Schema & Queries](https://github.com/UttamTiwariDA/YOUR_REPO_NAME)**
+### 3. 🛒 Olist E-Commerce Business Intelligence
+* **Tech Stack:** `Python` | `Advanced SQL` | `Power BI` | `DAX`
+* **Impact:** Conducted full-cycle analysis on 100k+ real e-commerce orders to solve customer churn and delivery bottlenecks. Used Python for missing data handling, wrote complex SQL queries for retention logic, and optimized a 3-page Power BI dashboard by reducing file bloat by 60%.
+* 🔗 **[Explore SQL Scripts & Dashboard](YOUR_LINK_HERE)**
+
+### 4. 🚕 OLA Ride Data & Operations Dashboard
+* **Tech Stack:** `SQL` | `Power BI` | `DAX` | `Data Modeling`
+* **Impact:** Processed 40,000+ ride bookings, resolving 22,000+ duplicate records using SQL Window Functions and CTEs. Handled cross-filtering conflicts and built a corporate 'F-Pattern' dashboard to visualize revenue trends and precise cancellation rates.
+* 🔗 **[Explore Data Model & Dashboard](YOUR_LINK_HERE)**
 
 ---
 
 ## 📈 Tools & Environments
-* ⚡ **Preferred Environments:** VS Code, Jupyter Notebooks, Power BI Desktop.
-* 🎯 **Current Focus:** Sharpening Advanced SQL window functions & Predictive Modeling with Python.
+* ⚡ **Environments:** VS Code, Jupyter Notebooks, Power BI Desktop, Render (Cloud Deployment).
+* 🎯 **Current Focus:** Advancing in Data Architecture, MLOps basics, and solving complex DAX business logic.
 
 ---
 
