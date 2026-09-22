@@ -64,7 +64,7 @@
 ### 4. 🚕 OLA Ride Data & Operations Dashboard
 * **Tech Stack:** `SQL` | `Power BI` | `DAX` | `Data Modeling`
 * **Impact:** Processed 40,000+ ride bookings, resolving 22,000+ duplicate records using SQL Window Functions and CTEs. Handled cross-filtering conflicts and built a corporate 'F-Pattern' dashboard to visualize revenue trends and precise cancellation rates.
-* 🔗 **[Explore Data Model & Dashboard](YOUR_LINK_HERE)**
+* 🔗 **[Explore Data Model & Dashboard](https://github.com/UttamTiwariDA/Power-BI-Portfolio/tree/main/OLA-DATA-ANALYSIS)**
 
 ---
 
